@@ -29,7 +29,7 @@ Built with Spring Boot and PostgreSQL, containerized via Docker for local develo
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/joel-jude/customer-incident-command-center
 cd customer-incident-command-center
 ```
 
