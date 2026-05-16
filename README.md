@@ -55,3 +55,6 @@ docker compose up -d
 
 Database will be available at:
 localhost:5432
+
+<img width="1092" height="314" alt="image" src="https://github.com/user-attachments/assets/e5c2bdaa-8f8e-4e09-8679-16454015cfb6" />
+
