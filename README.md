@@ -53,6 +53,9 @@ POSTGRES_DB=incident_db
 docker compose up -d
 ```
 
+API will be available at:
+http://localhost:8080
+
 Database will be available at:
 localhost:5432
 
